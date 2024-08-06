@@ -73,3 +73,11 @@ This is a public website for an event management company built using Bootstrap, 
 
 
 For any questions or feedback, please contact [YashR34](https://github.com/YashR34).
+
+![Screenshot (25)](https://github.com/user-attachments/assets/01ddb62e-6cd1-41bf-bd75-40782ab69455)
+
+![Screenshot (26)](https://github.com/user-attachments/assets/7823f237-0c9e-4297-9579-16544029bbd3)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/e879cd88-b4b8-46b7-a517-b0fe991571cc)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/8d926425-2c06-466b-bbb3-e3350bd9eb7f)
